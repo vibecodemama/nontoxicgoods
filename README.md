@@ -5,15 +5,13 @@ A curated collection of family-vetted non-toxic products, focusing on high quali
 ## Features
 
 - **Color-coded categories** for easy visual browsing
-- **Advanced filtering** by product name, category, and brand
+- **Product filtering** by category
 - **Responsive design** works on desktop, tablet, and mobile devices
-- **Non-toxic focus** with detailed notes on product benefits
-- **Made in USA** emphasis where available
 - **Sortable and searchable** product database
 
-## Demo
+## Live Site
 
-View the live version: https://vibecodemama.com/top-picks/
+View the site at: https://vibecodemama.com/top-picks/
 
 ## Installation
 
@@ -88,4 +86,4 @@ And add the corresponding CSS variable in the :root section:
 - Vanilla JavaScript (no frameworks)
 - Font Awesome icons
 - Google Fonts
-- Responsive design techniques
+- Responsive design
