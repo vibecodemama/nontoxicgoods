@@ -20,7 +20,7 @@ This is a static HTML/CSS/JavaScript website, so installation is straightforward
 1. Clone this repository:
 
    ```sh
-   git clone https://github.com/yourusername/mamas-top-picks.git
+   git clone https://github.com/vibecodemama/top-picks.git
    ```
 
 2. Open index.html in your browser to view locally
