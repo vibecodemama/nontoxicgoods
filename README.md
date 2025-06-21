@@ -4,7 +4,7 @@ A searchable, filterable static website for discovering non-toxic products. This
 
 ## 🌿 About
 
-NontoxicGoods.com is a curated collection of non-toxic products spanning categories like Personal Care, Kitchen, Cleaning, and more. The site is a spinoff project of [Tallow & Grace](https://www.tallowandgrace.com/).
+NontoxicGoods.com is a curated collection of non-toxic products spanning categories like Personal Care, Kitchen, Cleaning, and more. The site is a spinoff project of [The Carnivore Mama](https://www.thecarnivoremama.com/).
 
 ## ✨ Features
 
